@@ -1,0 +1,9 @@
+8
+3 19610 zayim
+6 19250 zayim
+7 19140 Nadin
+5 8060 zayim
+1 3620 zayim
+4 2050 zayim
+2 1350 nedo
+0 280 zayim
